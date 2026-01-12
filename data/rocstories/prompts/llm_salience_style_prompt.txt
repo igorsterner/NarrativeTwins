@@ -1,0 +1,5 @@
+INSERT_STORY
+
+Your task is to determine how narratively salient each sentence in the above story is. Narrative salience is the likelihood that information in a sentence would be included by someone else telling the same story. It is a float greater than 0.0, less than 1.0, and unique for each sentence. Respond in the form
+
+{"sentence_1": float, "sentence_2": float, "sentence_3": float, "sentence_4": float, "sentence_5": float}

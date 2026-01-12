@@ -1,0 +1,11 @@
+INSERT_STORY
+
+The above story was written in order to describe a real situation. Many things occurred that the author did not include in the story. Now imagine you know everything about the situation. Write an extended 20-sentence story about the situation. Your story should have ALL of the following five properties.
+
+1. Your story should be faithful to the events that occurred in the original story.
+2. You should re-write all original events in your own words.
+3. All new events should be entirely realistic given the original story.
+4. Each sentence in the original story should become four sentences in your extended story.
+5. Every sentence should be simple and shorter than the sentences in the original story.
+
+Respond now only with your extended story in prose.

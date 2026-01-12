@@ -1,0 +1,25 @@
+INSERT_STORY
+
+Your task is now to write a new story that takes heavy inspiration from the above 5-paragraph story. The new story should change the most important parts of the above story. The least import parts should be very similar to the above story.
+
+You must change ALL of the following.
+
+1. Change the main opportunity that is presented to the characters (approximately 10% of the way through the story; typically in section 1).
+2. Change the main event that changes the plans and defines the goal (approximately 30% of the way through story; typically in section 2).
+3. Change the point of no return event (approximately 50% of the way through; typically in section 3).
+4. Change the major setback faced by the characters (approximately 70% of the way through; typically in section 4).
+5. Change the climax event (approximately 90% of the way through; typically in section 5).
+
+You must keep ALL of the following the same.
+
+6. Keep all of the same characters as the above story.
+7. Keep the same setting as the above story. Use the same names.
+8. Keep all of the minor events the same. Make them a logical and realistic part of your new story.
+
+Your story must have ALL of the following properties:
+
+9. Your story should be approximately the same total length as the above story.
+10. Your story should be exactly 5 sections. Section 1 of your new story should correspond to new version of section 1 in the above story; the same holds for sections 2-5.
+10. Your story should be written in exactly the same style as the above story.
+
+Respond now with your sections in prose.

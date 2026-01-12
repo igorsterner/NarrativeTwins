@@ -1,0 +1,6 @@
+torch
+transformers
+hydra-core
+wandb
+nltk
+flash-attn

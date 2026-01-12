@@ -1,0 +1,16 @@
+INSERT_STORY
+
+Your task is now to write a new version of the above five-sentence story. Your story should be very similar to the above story. But you should change the climax completely. Your story should have ALL of the following properties.
+
+1. Your story should involve all of the same characters as the above story.
+2. Your story should be based on the same setting as the above story.
+3. The main and most important event in your new story should be fundamentally different from what occurred in the above story.
+4. Other than the main and most important event, your new story should be very similar to the above story.
+5. Every sentence in your new story should be logically related to the next sentence and be about the characters of the story.
+6. Your story should be entirely realistic.
+7. Your story should read like a coherent story, with a specific beginning and end, where
+something happens in between.
+8. Every sentence in your new story should be simple and short. Maximum one single clause.
+9. Your story should be exactly five sentences.
+
+Respond now only with your story in prose.

@@ -1,0 +1,26 @@
+paths:
+  training_data: data/rocstories/split/train.json
+  evaluation_data: data/rocstories/split/val.json
+  wandb_project: rocstories-bert
+  output_dir: outputs_rocstories
+
+training:
+  seed: 43
+  batch_size: 128
+  epochs: 5
+  lr: 3e-5
+  weight_decay: 0.01
+  log_every: 50
+  eval_every: 50
+  hard_negatives: true
+
+model:
+  base_model: google-bert/bert-large-uncased
+  temperature: 0.05
+  pooling: mean # or cls
+
+loss:
+  type: nt # or mlm, or simcse
+
+evaluation:
+  metrics: [spearman, auc]

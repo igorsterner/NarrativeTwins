@@ -1,0 +1,11 @@
+INSERT_STORY
+
+Imagine that you want to tell the above story to your friend. Your task is to retell the story in five sentences. Your retelling should have ALL of the following five properties.
+
+1. Your retelling should omit events that are not important to the provided story.
+2. Your retelling should be faithful to the most important events that occur in the provided story.
+3. Your retelling should only include events that are in the provided story.
+4. Every sentence in your retelling should be logically related to the next sentence and be about the characters of the story.
+5. Every sentence in your retelling should be simple and short. Maximum one single clause.
+
+Respond now only with your retelling in prose.

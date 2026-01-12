@@ -1,0 +1,33 @@
+You will be given a short story. The story will always be 5 sentences long. You will be asked to write a short one-sentence summary of the story. You will then be asked to identify the sentence which is most important to the story.
+
+In your summary, you should describe what is most memorable about the story. Your summary should be a spoiler for the story.
+
+- It must be less than 12 words.
+- Use your own words - do not copy large portions from the original story.
+- There is no need to introduce characters or settings in your summary, unless it is vital.
+- You should use the names of characters, where they are known. If the story is written in first person ('I', 'My' etc.), write your summary in first person.
+
+For your identificatino of the sentence which is most important to the story, look at your summary and decide which sentences include information used in your summary. Of these, select the sentence which is most amazing, astonishing or surprising.
+
+- You may only choose one whole sentence.
+- If a sentence contains multiple parts, don't worry if part of the sentence is not memorable. 
+
+Respond in the form of: {"summary": str, "most_important": int}
+
+1. Ricky was playing tennis with Bob.
+2. Bob served the ball and hit Ricky right in the head!
+3. Ricky fainted on the tennis court.
+4. Bob gave Ricky some water to drink.
+5. Ricky felt better after resting for awhile.
+
+{"summary": "Bob hits Ricky in the head during a tennis match.", "most_important": 2}
+
+1. My youngest nephew came to stay with us for a weekend.
+2. He taught my youngest son lots of new words.
+3. He showed him some next and interesting gestures.
+4. Finally, he gave us all a tutorial on tantrum throwing.
+5. I was elated to see his parents come and pick him up.
+
+{"summary": "My nephew threw a tantrum over the weekend.", "most_important": 4}
+
+INSERT_STORY
