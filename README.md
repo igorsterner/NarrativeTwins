@@ -154,7 +154,7 @@ If our code our paper has been useful to you, please consider citing our paper:
 
 ```
 @inproceedings{sterner-2026-narrativetwins,
-    title = "{Contrastive Learning with Narrative Twins for Modeling Story Salience",
+    title = "Contrastive Learning with Narrative Twins for Modeling Story Salience",
     author = "Sterner, Igor and Lascarides, Alex  and Keller, Frank ",
     booktitle = "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics",
     month = mar,
