@@ -22,7 +22,7 @@ United Kingdom
 
 <div align="center">
 
-[![arxiv](https://img.shields.io/badge/arXiv-2509.04606-b31b1b.svg)](https://arxiv.org/abs/2509.04606)
+[![arxiv](https://img.shields.io/badge/arXiv-2601.07765-b31b1b.svg)](https://arxiv.org/abs/2601.07765)
 [![Dataset: ROCStory Salience Annotation](https://img.shields.io/badge/Dataset-ROCStory_Salience-FFD21E.svg)](https://huggingface.co/datasets/igorsterner/rocstory-salience)
 [![Dataset: ROCStory Summaries](https://img.shields.io/badge/Dataset-ROCStory_Summaries-FFD21E.svg)](https://huggingface.co/datasets/igorsterner/rocstory-summaries)
 [![Dataset: ROCStory Narrative Twins](https://img.shields.io/badge/Dataset-ROCStory_Narrative_Twins-FFD21E.svg)](https://huggingface.co/datasets/igorsterner/rocstory-narrative-twins)
@@ -34,7 +34,7 @@ United Kingdom
 
 ## Abstract
 
-Understanding narratives requires identifying which events are most salient for a story's progression. We present a contrastive learning framework for modeling narrative salience that learns story embeddings from \emph{narrative twins}: stories that share the same plot but differ in surface form. Our model is trained to distinguish a story from both its narrative twin and a distractor with similar surface features but different plot. Using the resulting embeddings, we evaluate four narratologically motivated operations for inferring salience (deletion, shifting, disruption, and summarization). Experiments on short narratives from the ROCStories corpus and longer Wikipedia plot summaries show that contrastively learned story embeddings outperform a masked-language-model baseline, and that summarization is the most reliable operation for identifying salient sentences. If narrative twins are not available, random dropout can be used to generate the twins from a single story. Effective distractors can be obtained either by prompting LLMs or, in long-form narratives, by using different parts of the same story.
+Understanding narratives requires identifying which events are most salient for a story's progression. We present a contrastive learning framework for modeling narrative salience that learns story embeddings from narrative twins: stories that share the same plot but differ in surface form. Our model is trained to distinguish a story from both its narrative twin and a distractor with similar surface features but different plot. Using the resulting embeddings, we evaluate four narratologically motivated operations for inferring salience (deletion, shifting, disruption, and summarization). Experiments on short narratives from the ROCStories corpus and longer Wikipedia plot summaries show that contrastively learned story embeddings outperform a masked-language-model baseline, and that summarization is the most reliable operation for identifying salient sentences. If narrative twins are not available, random dropout can be used to generate the twins from a single story. Effective distractors can be obtained either by prompting LLMs or, in long-form narratives, by using different parts of the same story.
 
 ## Installation
 
