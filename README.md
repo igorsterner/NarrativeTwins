@@ -144,9 +144,9 @@ python src/wikipedia/evaluation/baselines.py
 python src/wikipedia/evaluation/salience_prompting.py # OpenAI key required in data/keys/openai
 ```
 
-#### Ablations
+## Ablations
 
-Replacing entities according to Hatzel et al. uses the scripts in `src/rocstories/data_manager/anonymization/` for ROCStories and the data provided by Hatzel et al. for Wikipedia narratives (load and align `story_b_anon` in `src/wikipedia/data_manager/plot_summaries.py`). Other ablations can be performed by changing the `config.yaml` files accordingly.
+Replacing entities according to Hatzel et al. uses the scripts in `src/rocstories/data_manager/anonymization/` for ROCStories and the data provided by Hatzel et al. for Wikipedia narratives (load and align `story_b_anon` in `src/wikipedia/data_manager/plot_summaries.py`). Training run variants can be performed by changing the `config.yaml` files accordingly or via command line arguments (we use Hydra, for instance you can run the `main.py` training scripts with `loss.type=simcse` or `loss.type=mlm`).
 
 ## Citation
 
